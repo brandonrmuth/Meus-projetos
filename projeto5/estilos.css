@@ -1,0 +1,29 @@
+
+body{
+    background: #f4f4f4;
+}
+
+ #principal{
+    
+    width: 960px;
+}
+
+.noticia{
+    background: gainsboro;
+    padding: 5px;
+    width: 280px;
+    margin: 7px;
+    float: left;
+}
+
+.imagens{
+    background: white;
+    width: 274px;
+    padding: 5px;
+    margin: 10px;
+    float: left;
+}
+
+.clear{
+    clear: both;
+}
